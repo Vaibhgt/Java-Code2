@@ -1,0 +1,13 @@
+class doWhileLoop
+{
+public static void main(Srtring Args[])
+{
+int i=1;
+do 
+{
+System.out.println(i);
+i++;
+}
+while (i<=10);
+}
+}

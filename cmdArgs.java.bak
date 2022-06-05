@@ -1,0 +1,9 @@
+class CmdArgs
+{
+public static void main(String args[])
+{
+System.out.println("Arguments= "+args[0]);//Please enter value to print
+System.out.println("Arguments= "+args[1]);
+System.out.println("Arguments= "+args[2]);
+}
+}

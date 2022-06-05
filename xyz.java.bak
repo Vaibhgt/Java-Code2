@@ -1,0 +1,10 @@
+class xyz
+{
+public static void main(String arg[])
+{
+system.out.println("hello bro");
+system.out.println("hello world");
+system.out.print("vaibhav");
+system.out.print("krati");
+}
+}
